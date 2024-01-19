@@ -1,6 +1,6 @@
 # Embedded Spatial Measurement System | C & Python
 
-This project involves the development of an **Embedded Spatial Measurement System** using a combination of **C programming** for microcontroller hardware and **Python** for data processing. The system collects distance measurements of the surrounding area to map an indoor environment.
+This project involves the development of an **Embedded Spatial Measurement System** using a combination of **C programming** for microcontroller hardware and **Python** for data processing. The system collects distance measurements of the surrounding area to map an indoor environment. To understand what specific components were used take a look at the project [report](Report/Project%20Report.pdf).
 
 ## **Key Features**
 
@@ -33,4 +33,4 @@ This project involves the development of an **Embedded Spatial Measurement Syste
 
 ## **Acknowledgments**
 
-This project demonstrates the synergy of **C programming** for microcontroller functionality and **Python** for data processing, resulting in an effective **Embedded Spatial Measurement System**. To understand what specific components were used take a look at the project report.
+This project demonstrates the synergy of **C programming** for microcontroller functionality and **Python** for data processing, resulting in an effective **Embedded Spatial Measurement System**.
