@@ -1,8 +1,8 @@
-**Embedded Spatial Measurement System | C & Python**
+#**Embedded Spatial Measurement System | C & Python**
 
 This project involves the development of an **Embedded Spatial Measurement System** using a combination of **C programming** for microcontroller hardware and **Python** for data processing. The system collects distance measurements of the surrounding area to map an indoor environment.
 
-**Key Features**
+##**Key Features**
 
 - **Hardware:** The system utilizes embedded systems with microcontroller hardware, a stepper motor and a time-of-flight sensor as the foundation for capturing distance measurements.
 
@@ -12,7 +12,7 @@ This project involves the development of an **Embedded Spatial Measurement Syste
 
 - **Python Integration:** Python is used for data processing and visualization. The obtained distance measurements are processed in Python, and the system outputs the data into an image format for comprehensive mapping of the indoor environment.
 
-**Getting Started**
+##**Getting Started**
 
 1. **Microcontroller Setup:**
    Set up the microcontroller hardware with the stepper motor and time-of-flight sensor and upload the provided firmware code to begin capturing distance measurements.
@@ -23,7 +23,7 @@ This project involves the development of an **Embedded Spatial Measurement Syste
 3. **Python Processing:**
    Run the Python script to process the collected data and generate a visual representation of the indoor environment.
 
-**Dependencies**
+##**Dependencies**
 
 - Microcontroller hardware
 - Stepper motor
