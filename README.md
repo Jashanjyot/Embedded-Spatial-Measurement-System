@@ -4,9 +4,9 @@ This project involves the development of an **Embedded Spatial Measurement Syste
 
 **Key Features**
 
-- **Microcontroller Hardware:** The system utilizes embedded systems with microcontroller hardware as the foundation for capturing distance measurements.
+- **Hardware:** The system utilizes embedded systems with microcontroller hardware, a stepper motor and a time-of-flight sensor as the foundation for capturing distance measurements.
 
-- **C Programming:** C programming is employed for the microcontroller firmware, enabling efficient control and data collection from the spatial measurement sensors.
+- **C Programming:** C programming is employed for the microcontroller firmware, enabling efficient control and data collection from the spatial measurement sensor.
 
 - **Communication Protocols:** Implementation of communication protocols such as **UART** and **I2C** facilitates seamless interaction between the microcontroller and other components of the system.
 
@@ -15,7 +15,7 @@ This project involves the development of an **Embedded Spatial Measurement Syste
 **Getting Started**
 
 1. **Microcontroller Setup:**
-   Set up the microcontroller hardware with the provided firmware code to begin capturing distance measurements.
+   Set up the microcontroller hardware with the stepper motor and time-of-flight sensor and upload the provided firmware code to begin capturing distance measurements.
 
 2. **Communication Protocols:**
    Configure and understand the implemented **UART** and **I2C** communication protocols for data transfer between the microcontroller and the system components.
@@ -26,9 +26,11 @@ This project involves the development of an **Embedded Spatial Measurement Syste
 **Dependencies**
 
 - Microcontroller hardware
+- Stepper motor
+- Time-of-flight sensor
 - C programming environment for microcontroller firmware
 - Python (>=3.x) for data processing
 
 **Acknowledgments**
 
-This project demonstrates the synergy of **C programming** for microcontroller functionality and **Python** for data processing, resulting in an effective **Embedded Spatial Measurement System**. Special thanks to [contributors or organizations] for their contributions and support.
+This project demonstrates the synergy of **C programming** for microcontroller functionality and **Python** for data processing, resulting in an effective **Embedded Spatial Measurement System**. To understand what specific components were used take a look at the project report.
