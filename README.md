@@ -2,7 +2,7 @@
 
 This project involves the development of an **Embedded Spatial Measurement System** using a combination of **C programming** for microcontroller hardware and **Python** for data processing. The system collects distance measurements of the surrounding area to map an indoor environment.
 
-##**Key Features**
+## **Key Features**
 
 - **Hardware:** The system utilizes embedded systems with microcontroller hardware, a stepper motor and a time-of-flight sensor as the foundation for capturing distance measurements.
 
